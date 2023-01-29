@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Ella & Alex's Private Porn", "Synapse")
+local Window = Library.CreateLib("Ella's Private Porn", "Synapse")
 
 -- Tab Walkspeed
 local Main = Window:NewTab("Walkspeed")
